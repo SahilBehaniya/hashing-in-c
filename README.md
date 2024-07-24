@@ -12,3 +12,4 @@ Hash Table:
 A data structure that uses a hash function to map keys to indices in an array.
 Each slot in the array can store data associated with the key.
 Ideally, the hash table allows for constant time complexity (O(1)) for search, insert, and delete operations.
+.
